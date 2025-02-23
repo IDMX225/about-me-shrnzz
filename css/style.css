@@ -1,0 +1,68 @@
+body {
+    background-color:#E1DCAE ;
+}
+
+header {
+    font-family: "Press Start 2P", serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    background-color: #e0ca01;
+    border-style: outset;
+    border-color: black;
+}
+
+.myavatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#nameandcity {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    color:black;
+    padding: 5px;
+}
+
+p {
+    font-family: "Roboto Mono", serif;
+    text-align: center;
+    padding: 10px;
+}
+
+#education {
+    font-family: "Press Start 2P", serif;
+    text-align: center;
+    padding: 10px;
+    background-color:#E3C8BD;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#E18D65;
+}
+
+#list {
+    font-family: "Roboto Mono", serif;
+    background-color: #B9E6E4;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #41A4E1;
+    padding: 10px;
+}
+
+.listhead {
+    font-family: "Press Start 2P", serif;
+    text-align: left;
+}
+
+footer{
+    font-family: "Press Start 2P", serif;
+    font-size:12px;
+    color: white;
+    text-align: center;
+    background-color: #e0ca01;
+    border-style: outset;
+    border-color: black;
+}
